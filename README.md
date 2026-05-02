@@ -7,10 +7,14 @@
 [![Cores](https://img.shields.io/badge/Cores-Quad--Core-green)](#)
 
 <div align="center">
-<table>
+<table border="0">
   <tr>
-    <td align="center"><img src="logo1.png" alt="Arcturus Logo 1" width="200"/></td>
-    <td align="center"><img src="logo2.png" alt="Arcturus Logo 2" width="200"/></td>
+    <td align="center">
+      <img src="https://i.postimg.cc/WD2CP6FK/Chat-GPT-Image-May-2-2026-08-28-07-PM.png" alt="Arcturus Logo 1" width="250"/>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/v13j8gfq/Chat-GPT-Image-May-2-2026-08-28-16-PM.png" alt="Arcturus Logo 2" width="250"/>
+    </td>
   </tr>
 </table>
 </div>
