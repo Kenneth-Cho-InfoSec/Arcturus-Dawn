@@ -6,6 +6,15 @@
 [![Process](https://img.shields.io/badge/Node-28nm-yellow)](#)
 [![Cores](https://img.shields.io/badge/Cores-Quad--Core-green)](#)
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="logo1.png" alt="Arcturus Logo 1" width="200"/></td>
+    <td align="center"><img src="logo2.png" alt="Arcturus Logo 2" width="200"/></td>
+  </tr>
+</table>
+</div>
+
 **Arcturus Dawn** is a hardware-hardened, quad-core RISC-V processor cluster designed from scratch for security-critical mobile and embedded applications. It features deep integration of hardware security modules—including a Shadow Stack for Control Flow Integrity (CFI), Memory Tagging Extension (MTE), and a dedicated cryptographic accelerator suite (AES-128 + TRNG)—all running on a 5-stage in-order pipeline optimized for 28nm technology.
 
 ---
