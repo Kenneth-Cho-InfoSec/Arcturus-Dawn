@@ -10,10 +10,10 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://i.postimg.cc/WD2CP6FK/Chat-GPT-Image-May-2-2026-08-28-07-PM.png" alt="Arcturus Logo 1" width="250"/>
+      <img src="https://i.postimg.cc/yN9HcLVV/Chat-GPT-Image-May-2-2026-08-28-07-PM.png" alt="Arcturus Logo 1" width="250"/>
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/v13j8gfq/Chat-GPT-Image-May-2-2026-08-28-16-PM.png" alt="Arcturus Logo 2" width="250"/>
+      <img src="https://i.postimg.cc/26Dfwn6D/Chat-GPT-Image-May-2-2026-08-28-16-PM.png" alt="Arcturus Logo 2" width="250"/>
     </td>
   </tr>
 </table>
