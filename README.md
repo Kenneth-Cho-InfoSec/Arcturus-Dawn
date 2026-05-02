@@ -19,13 +19,13 @@
 </table>
 </div>
 
-**Arcturus Dawn** is a hardware-hardened, quad-core RISC-V processor cluster designed from scratch for security-critical mobile and embedded applications. It features deep integration of hardware security modules—including a Shadow Stack for Control Flow Integrity (CFI), Memory Tagging Extension (MTE), and a dedicated cryptographic accelerator suite (AES-128 + TRNG)—all running on a 5-stage in-order pipeline optimized for 28nm technology.
+**Arcturus Dawn** is a hardware-hardened, quad-core RISC-V processor cluster designed from scratch for security-critical mobile and embedded applications. It features deep integration of hardware security modules, including a Shadow Stack for Control Flow Integrity (CFI), Memory Tagging Extension (MTE), and a dedicated cryptographic accelerator suite (AES-128 + TRNG), all running on a 5-stage in-order pipeline optimized for 28nm technology.
 
 ---
 
 ## 📖 The Idea: Why Arcturus?
 
-Modern processors are incredibly fast, but security is often an afterthought—patched in via software or bolted on as separate IPs. **Arcturus** started with a different question: *"What if the CPU itself refused to execute malicious code?"*
+Modern processors are incredibly fast, but security is often an afterthought, patched in via software or bolted on as separate IPs. **Arcturus** started with a different question: *"What if the CPU itself refused to execute malicious code?"*
 
 The concept was simple: **build a RISC-V core where security is woven into the silicon, not layered on top.** 
 
