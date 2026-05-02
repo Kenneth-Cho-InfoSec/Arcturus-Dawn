@@ -1,0 +1,17 @@
+# Generated Files
+build/
+*.vcd
+*.vvp
+*.lxt
+*.fst
+
+# Synthesis Artifacts
+synthesis/*.aig
+synthesis/*.blif
+synthesis/*.log
+synthesis/*.lib
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
