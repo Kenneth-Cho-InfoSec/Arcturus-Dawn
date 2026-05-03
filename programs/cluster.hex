@@ -1,0 +1,14 @@
+// Simple benchmark program for multi-core test
+// Computes sum of 1..24 and stores result
+00200093 // li x1, 0          ; sum = 0
+00108113 // addi x2, x1, 1    ; i = 1
+02010413 // li x8, 32         ; limit = 32
+02c00493 // li x9, 44        ; address
+00000013 // nop (delay slot)
+fe989ce3 // bge x8, x2, -4   ; branch back if i < 32
+00000013 // nop
+00000013 // delay
+00000013 // nop
+00000013 // delay
+0011a023 // sw x1, 0(x9)     ; store sum
+00000000 // ebreak (halt)
